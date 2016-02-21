@@ -13,7 +13,7 @@ two:
   price: 9.99
 
 ruby:
-  title: 'Luffy Action Figure'
-  description: 'Luffy also knwon as Monkey D. Luffy is the captain of the Straw Hat pirates.'
+  title: Luffy Action Figure
+  description: Luffy also knwon as Monkey D. Luffy is the captain of the Straw Hat pirates.
   image_url: luffy.jpg
-  price: 50.97  
+  price: 50.97
